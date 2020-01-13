@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JB.Frontend", "Jobsity\JB.Frontend.csproj", "{9547A9D8-9E11-4B57-AD05-C55863AB8FFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JB.Frontend", "JB.Frontend\JB.Frontend.csproj", "{9547A9D8-9E11-4B57-AD05-C55863AB8FFE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JB.StockBot", "Jobsity.BotService\JB.StockBot.csproj", "{ACD4B512-7C0A-46B9-A52E-65AF04633316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JB.StockBot", "JB.StockBot\JB.StockBot.csproj", "{ACD4B512-7C0A-46B9-A52E-65AF04633316}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JB.Common", "Jobsity.Common\JB.Common.csproj", "{932C9E05-CBED-4348-983D-55486124C677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JB.Common", "JB.Common\JB.Common.csproj", "{932C9E05-CBED-4348-983D-55486124C677}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JB.Tests", "JB.Tests\JB.Tests.csproj", "{3E6B9625-C1CA-4FFB-B230-BF540AFF7555}"
 EndProject
