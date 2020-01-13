@@ -32,7 +32,7 @@ namespace JB.Controllers
                 {
                     ViewBag.CurrentUserName = currentUser.UserName;
                 }
-                var messages = await _context.Messages.OrderByDescending(m => m.When).Take(5).ToListAsync();
+                var messages = await _context.Messages.OrderByDescending(m => m.When).Take(50).ToListAsync();
                 return View(messages);
             }
             return View();
